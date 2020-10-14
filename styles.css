@@ -1,0 +1,38 @@
+/* RIGHT HERE, BOSS! Next we need to get the lightbulb up and then get the javascript fetch thingy working. */
+
+* {
+  margin: 0;
+}
+
+body, html {
+  height: 100%;
+}
+
+h1 {
+  font-size: 7rem;
+}
+
+.bg {
+  height: 100%;
+  background-color: rgba(10, 10, 10, 0.1);
+  /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+}
+
+.buttons {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.btn.btn-info {
+  height: 200px;
+  width: 200px;
+  font-size: 1.5rem;
+}
+
+.row {
+  padding-top: 3em;
+}
